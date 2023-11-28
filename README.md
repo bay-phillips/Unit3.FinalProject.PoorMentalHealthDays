@@ -15,4 +15,4 @@ This repository also includes a visualization of the data created by Google Cola
 <img width="733" alt="Mental_Health_by_Region Chart" src="https://github.com/bay-phillips/Unit3.FinalProject.PoorMentalHealthDays/assets/152188751/7a9e96d8-1b69-4f61-9c96-3e05149775d5">
 
 The bar graph above illustrates the number of data points where the number of poor mental health days is above the avaerage by region. From the graph we can see that the Midwest has a signifiganatly higher number of data points where the person experiances an above average number of poor mental health days. 
-# How to Contribute 
+# 
