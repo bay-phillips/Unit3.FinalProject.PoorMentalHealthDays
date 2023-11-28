@@ -9,7 +9,7 @@ The data is provided by The University of North Carolina Davis Library Reasearch
 # Potential Use 
 This repository might be useful for people curious about how poor mental health differs by regions. Additionally the information found in the repository can help people who want to analyze a range of data relating to any aspect of County Health Statistics, including obesity, access to insurance, and poverty levels. 
 # Getting Started
-Before straing make sure you have dowloaded your data, you can use the data provided or your own data. If you wish to use the County Health Data that is provided it can be found in the folder titled Data or click the link below. 
+Before straing make sure you have dowloaded your data, you can use the data provided or your own data. If you wish to use the County Health Data that is provided it can be found in the folder titled Data or click the link
 [County Health Data](https://github.com/bay-phillips/Unit3.FinalProject.PoorMentalHealthDays/blob/5088f9f6aee277764868135cc844c0e9a6608783/data/CountyHealthData_2014-2015%20(2).csv)
 
 To start, open the documentation folder found at the top of the page. One there open the file titled Python_Phillips.ipynb. Then follow along with the instructions.
