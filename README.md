@@ -20,3 +20,7 @@ This repository also includes a visualization of the data created by Google Cola
 The bar graph above illustrates the number of data points where the number of poor mental health days is above the avaerage by region. From the graph we can see that the Midwest has a signifiganatly higher number of data points where the person experiances an above average number of poor mental health days. 
 # Additional Information
 The license included in this repository gives users the right to use, share, and edit the software. MIT license has very limited restriction on reuse and distrubution so it is compatabile with almost all projects. That being said please make sure to include the orginal copyright and license notice in any redistributed work. 
+
+**Contribution and Maintence**
+
+This repository is maintained by Bay Phillips. If further help is needed please contanct bphill@unc.edu.
