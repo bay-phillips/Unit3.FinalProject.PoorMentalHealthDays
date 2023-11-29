@@ -23,4 +23,4 @@ The license included in this repository gives users the right to use, share, and
 
 **Contribution and Maintence**
 
-This repository is maintained by Bay Phillips. If further help is needed please contanct bphill@unc.edu.
+This repository is maintained by Bay Phillips. If further help is needed please contanct support@github.com.
