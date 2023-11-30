@@ -5,11 +5,11 @@ This is a repository about the number of Poor Mental Health Days above the mean 
 
 **Acquiring the Data** 
 
-The data is provided by The University of North Carolina Davis Library Reasearch Hub. UNC Davis Library offers students and faculty different reasources to help teach students coding, including the County Health Data analyzed in this repository. In addition instructions about python and packages were provided by Professor Gotzler.
+The data is provided by The University of North Carolina Davis Library Research Hub. UNC Davis Library offers students and faculty different resources to help teach students coding, including the County Health Data analyzed in this repository. In addition, instructions about Python and packages were provided by Professor Gotzler.
 # Potential Use 
-This repository might be useful for people curious about how the number of poor mental health days differs by regions or for mental health professionals and government employees who want to provide certain areas within th US with greater access to mental health support and mental health reasources. Additionally the information found in the repository can help people who want to analyze a range of data relating to any aspect of County Health Statistics, including obesity, access to insurance, and poverty levels. 
+This repository might be useful for people curious about how the number of poor mental health days differs by region or for mental health professionals and government employees who want to provide certain areas within the US with greater access to mental health support and mental health resources. Additionally, the information found in the repository can help people who want to analyze a range of data relating to any aspect of County Health Statistics, including obesity, access to insurance, and poverty levels. 
 # Getting Started
-Before starting make sure you have dowloaded your data, you can use the data provided or your own. If you wish to use the County Health Data that is provided it can be dowloaded from the folder titled Data or click the link-
+Before starting make sure you have downloaded your data, you can use the data provided or your own. If you wish to use the County Health Data that is provided it can be downloaded from the folder titled Data or click the link-
 [County Health Data](https://github.com/bay-phillips/Unit3.FinalProject.PoorMentalHealthDays/blob/5088f9f6aee277764868135cc844c0e9a6608783/data/CountyHealthData_2014-2015%20(2).csv)
 
 To start, open the documentation folder found at the top of the page. Once there open the file titled Python_Phillips.ipynb. Then follow along with the instructions.
