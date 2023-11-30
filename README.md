@@ -5,7 +5,7 @@ This is a repository about the number of Poor Mental Health Days above the mean 
 
 **Acquiring the Data** 
 
-The data is provided by The University of North Carolina Davis Library Reasearch Hub. UNC Davis Library offers students and faculty different reasources to help teach students coding, including the County Health Data analyzed in this repository. In addition instructions about python and packages were provided by UNC's ENGL 105 course.
+The data is provided by The University of North Carolina Davis Library Reasearch Hub. UNC Davis Library offers students and faculty different reasources to help teach students coding, including the County Health Data analyzed in this repository. In addition instructions about python and packages were provided by Professor Gotzler.
 # Potential Use 
 This repository might be useful for people curious about how the number of poor mental health days differs by regions or for mental health professionals and government employees who want to provide certain areas within th US with greater access to mental health support and mental health reasources. Additionally the information found in the repository can help people who want to analyze a range of data relating to any aspect of County Health Statistics, including obesity, access to insurance, and poverty levels. 
 # Getting Started
